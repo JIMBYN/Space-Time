@@ -1,0 +1,15 @@
+C:\Users\cj\Documents\Research\Gravity\Gravity\bin\Debug\Gravity.exe.config
+C:\Users\cj\Documents\Research\Gravity\Gravity\bin\Debug\Gravity.exe
+C:\Users\cj\Documents\Research\Gravity\Gravity\bin\Debug\Gravity.pdb
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.csproj.AssemblyReference.cache
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.csproj.SuggestedBindingRedirects.cache
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.Form1.resources
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.Properties.Resources.resources
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.csproj.GenerateResource.cache
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.csproj.CoreCompileInputs.cache
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.exe
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.pdb
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.Form2.resources
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.Form3.resources
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.UserControlGame.resources
+C:\Users\cj\Documents\Research\Gravity\Gravity\obj\Debug\Gravity.FormGame.resources
